@@ -1,0 +1,14 @@
+/* Write your code here. */
+.main-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.list-item {
+  width: 50%;
+}
+.quest-cont {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
